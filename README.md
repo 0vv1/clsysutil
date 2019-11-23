@@ -10,5 +10,5 @@
    (see https://github.com/ryanoasis/nerd-fonts or https://nerdfonts.com for details)
 
 ## depends on
- * `python lib psutil`
+ * python lib `psutil`
     to get information about the state of CPU and memory
